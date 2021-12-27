@@ -2,6 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=zainuleb.com&style=for-the-badge&url=https://my-dev-portfolio-bv4ttd2li-zainuleb.vercel.app)](https://my-dev-portfolio-bv4ttd2li-zainuleb.vercel.app)
 [![Twitter Follow](https://img.shields.io/twitter/follow/zainuleb?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fzainuleb&screen_name=zainuleb)
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 ## I'm a Software Engineer. I like to Write and take Pictures!!
 
@@ -55,4 +56,5 @@
 [website]: https://my-dev-portfolio-bv4ttd2li-zainuleb.vercel.app
 [twitter]: https://twitter.com/zainuleb
 [instagram]: https://www.instagram.com/zainuleb
-[linkedin]: https://www.linkedin.com/in/zainuleb/
+[linkedin-url]: https://www.linkedin.com/in/zainuleb/
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
