@@ -7,9 +7,8 @@
 ## I'm a Software Engineer. I like to Write and take Pictures!!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love philosophy.
+- ⚡ Fun fact: I love philosophy and football.
 
 ### Connect with me:
 
