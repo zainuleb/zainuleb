@@ -39,15 +39,10 @@
 
 ### 📕 Latest Blog Posts
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@zainulebadd/0" alt="Recent Article 0">
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@zainulebadd/0" alt="Recent Article 1"> 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@zainulebadd/0" alt="Recent Article 2"> 
-
 <!-- BLOG-POST-LIST:START -->
-- [Property Binding in Angular Explained](https://zainulebadd.medium.com/property-binding-in-angular-explained-6eebf850e1be)
-- [Angular String/Text Interpolation](https://zainulebadd.medium.com/angular-string-text-interpolation-2e39465819e6)
-- [Next.js -12](https://zainulebadd.medium.com/next-js-12-2c4896171e0a)
-- [vscode.dev — Dev tool on the Web](https://zainulebadd.medium.com/vscode-dev-dev-tool-on-the-web-8bba8a86610a)
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@zainulebadd/0" alt="Recent Article 0">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@zainulebadd/1" alt="Recent Article 1"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@zainulebadd/2" alt="Recent Article 2"> 
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://zainulebadd.medium.com)
