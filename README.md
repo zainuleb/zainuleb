@@ -5,9 +5,9 @@
 
 ## I'm a Software Engineer. I like to Write and take Pictures!!
 
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love philosophy and football.
+- 🌱 I’m currently learning everything about DevOps 👨‍💻
+- 🥅 2023 Goals: Design and Build scalable architecture on Cloud
+- ⚡ Fun fact: I love photography and football.
 
 ### Connect with me:
 
@@ -49,7 +49,6 @@
 
 ---
 
-[website]: https://my-dev-portfolio-bv4ttd2li-zainuleb.vercel.app
 [twitter]: https://twitter.com/zainuleb
 [instagram]: https://www.instagram.com/zainuleb
 [linkedin-url]: https://www.linkedin.com/in/zainuleb/
