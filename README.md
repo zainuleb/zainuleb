@@ -39,6 +39,10 @@
 
 ### 📕 Latest Blog Posts
 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@zainulebadd/0" alt="Recent Article 0">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@zainulebadd/0" alt="Recent Article 1"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@zainulebadd/0" alt="Recent Article 2"> 
+
 <!-- BLOG-POST-LIST:START -->
 - [Property Binding in Angular Explained](https://zainulebadd.medium.com/property-binding-in-angular-explained-6eebf850e1be)
 - [Angular String/Text Interpolation](https://zainulebadd.medium.com/angular-string-text-interpolation-2e39465819e6)
