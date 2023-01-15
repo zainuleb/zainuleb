@@ -40,15 +40,15 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@zainulebadd/0" alt="Recent Article 0">
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@zainulebadd/1" alt="Recent Article 1"> 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@zainulebadd/2" alt="Recent Article 2"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@zainulebadd/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@zainulebadd/0" alt="Recent Article 0">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@zainulebadd/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@zainulebadd/1" alt="Recent Article 1"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@zainulebadd/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@zainulebadd/2" alt="Recent Article 2"> 
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://zainulebadd.medium.com)
 
 ---
-
+[website]: https://zainulebadd.medium.com
 [twitter]: https://twitter.com/zainuleb
 [instagram]: https://www.instagram.com/zainuleb
 [linkedin-url]: https://www.linkedin.com/in/zainuleb/
