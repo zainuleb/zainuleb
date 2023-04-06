@@ -1,6 +1,5 @@
 ### Hi there, I'm Ebad - aka [zainuleb] 👋 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/zainuleb?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fzainuleb&screen_name=zainuleb)
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 ## I'm a Software Engineer. I like to Write and take Pictures!!
